@@ -1,5 +1,5 @@
 <?php
-namespace Tmo\Commanding;
+namespace Tmo\Commander;
 
 interface CommandTranslator
 {

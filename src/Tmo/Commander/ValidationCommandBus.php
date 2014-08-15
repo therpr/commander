@@ -1,10 +1,10 @@
 <?php
 
-namespace Tmo\Commanding;
+namespace Tmo\Commander;
 
 use Illuminate\Foundation\Application;
 
-class ValidatorCommandBus implements CommandBus {
+class ValidationCommandBus implements CommandBus {
 
     private $app;
     protected $commandTranslator;

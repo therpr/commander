@@ -1,6 +1,6 @@
 <?php 
 
-namespace Tmo\Events;
+namespace Tmo\Commander\Events;
 
 use Illuminate\Events\Dispatcher;
 use Illuminate\Log\Writer;

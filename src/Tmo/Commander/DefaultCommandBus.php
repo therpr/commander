@@ -1,6 +1,6 @@
 <?php
 
-namespace Tmo\Commanding;
+namespace Tmo\Commander;
 
 use Illuminate\Foundation\Application;
 
